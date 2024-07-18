@@ -1,0 +1,89 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Cuenta Fans!
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title color="primary" size="large">Cuenta Fans! <ion-icon name="shirt-outline"></ion-icon></ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content >
+    <ion-searchbar slot="fixed" animated="true" placeholder="Buscar Club"  [(ngModel)]="filtro"></ion-searchbar>
+    <br>
+    <br>
+    
+    <ion-list *ngIf="datosArg" id="arg">
+      <ion-list-header>
+        <ion-label >Argentina</ion-label>
+      </ion-list-header>
+      <ion-item *ngFor="let equipo of datosArg | filter:filtro" (click)="presentAlert(equipo)">
+        <ion-label>{{equipo.Name}}</ion-label>
+        <p style="font-size: small;">{{equipo.ShortName}}</p>
+        <ion-img style="width: 10%;"
+        src="{{equipo.ImageURL}}"
+        alt="{{equipo.Name}}"
+        >
+        </ion-img>
+      </ion-item>
+     
+    </ion-list>
+
+
+     <ion-list *ngIf="datosBra" id="bra">
+      <ion-list-header>
+        <ion-label >Brasil</ion-label>
+      </ion-list-header>
+      <ion-item *ngFor="let equipo of datosBra | filter:filtro" (click)="presentAlert(equipo.ShortName)">
+        <ion-label>{{equipo.Name}}</ion-label>
+        <p style="font-size: small;">{{equipo.ShortName}}</p>
+        <ion-img style="width: 10%;"
+        src="{{equipo.ImageURL}}"
+        alt="{{equipo.Name}}"
+        >
+        </ion-img>
+      </ion-item>
+     
+    </ion-list>
+
+
+    <ion-list *ngIf="datosEsp" id="esp">
+      <ion-list-header>
+        <ion-label >España</ion-label>
+      </ion-list-header>
+      <ion-item *ngFor="let equipo of datosEsp | filter:filtro" (click)="presentAlert(equipo.ShortName)">
+        <ion-label>{{equipo.Name}}</ion-label>
+        <p style="font-size: small;">{{equipo.ShortName}}</p>
+        <ion-img style="width: 10%;"
+        src="{{equipo.ImageURL}}"
+        alt="{{equipo.Name}}"
+        >
+        </ion-img>
+      </ion-item>
+     
+    </ion-list>
+
+
+    <ion-fab slot="fixed" vertical="bottom" horizontal="end" style="margin-bottom: 55px;">
+      <ion-fab-button>
+        <ion-icon name="chevron-up-circle"></ion-icon>
+      </ion-fab-button> 
+      <ion-fab-list side="top">
+        <ion-fab-button (click)="scroll('esp')">
+          <ion-img src="https:\/\/cdn.soccerwiki.org\/images\/international\/ESP.png"></ion-img>
+        </ion-fab-button>
+        <ion-fab-button (click)="scroll('bra')">
+          <ion-img src="https:\/\/cdn.soccerwiki.org\/images\/international\/BRA.png"></ion-img>
+        </ion-fab-button>
+        <ion-fab-button (click)="scroll('arg')">
+          <ion-img src="https:\/\/cdn.soccerwiki.org\/images\/international\/ARG.png"></ion-img>
+        </ion-fab-button>
+      </ion-fab-list>
+    </ion-fab>
+
+  </ion-content>
+</ion-content>

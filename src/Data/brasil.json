@@ -1,0 +1,1896 @@
+{
+    "ClubData": [
+        {
+            "ID": 286,
+            "Name": "Atlético Mineiro",
+            "ShortName": "CAM",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/286.png"
+        },
+        {
+            "ID": 287,
+            "Name": "Athletico Paranaense",
+            "ShortName": "CAP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/287.png"
+        },
+        {
+            "ID": 288,
+            "Name": "Botafogo FR",
+            "ShortName": "BOT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/288.png"
+        },
+        {
+            "ID": 289,
+            "Name": "Brasiliense",
+            "ShortName": "BRA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/289.png"
+        },
+        {
+            "ID": 290,
+            "Name": "Corinthians",
+            "ShortName": "COR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/290.png"
+        },
+        {
+            "ID": 291,
+            "Name": "Coritiba",
+            "ShortName": "CFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/291.png"
+        },
+        {
+            "ID": 292,
+            "Name": "Cruzeiro",
+            "ShortName": "CRU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/292.png"
+        },
+        {
+            "ID": 293,
+            "Name": "Figueirense",
+            "ShortName": "FIG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/293.png"
+        },
+        {
+            "ID": 294,
+            "Name": "Flamengo",
+            "ShortName": "FLA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/294.png"
+        },
+        {
+            "ID": 295,
+            "Name": "Fluminense",
+            "ShortName": "FLU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/295.png"
+        },
+        {
+            "ID": 296,
+            "Name": "Fortaleza EC",
+            "ShortName": "FOR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/296.png"
+        },
+        {
+            "ID": 297,
+            "Name": "Goiás",
+            "ShortName": "GOI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/297.png"
+        },
+        {
+            "ID": 298,
+            "Name": "SC Internacional",
+            "ShortName": "INT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/298.png"
+        },
+        {
+            "ID": 299,
+            "Name": "Juventude",
+            "ShortName": "JUV",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/299.png"
+        },
+        {
+            "ID": 300,
+            "Name": "Palmeiras",
+            "ShortName": "PAL",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/300.png"
+        },
+        {
+            "ID": 301,
+            "Name": "Paraná Clube",
+            "ShortName": "PAR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/301.png"
+        },
+        {
+            "ID": 302,
+            "Name": "Paysandu SC",
+            "ShortName": "PAY",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/302.png"
+        },
+        {
+            "ID": 303,
+            "Name": "Ponte Preta",
+            "ShortName": "PP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/303.png"
+        },
+        {
+            "ID": 304,
+            "Name": "Santos FC",
+            "ShortName": "SFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/304.png"
+        },
+        {
+            "ID": 305,
+            "Name": "São Caetano",
+            "ShortName": "SÃO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/305.png"
+        },
+        {
+            "ID": 306,
+            "Name": "São Paulo FC",
+            "ShortName": "SPO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/306.png"
+        },
+        {
+            "ID": 307,
+            "Name": "Vasco da Gama",
+            "ShortName": "VAS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/307.png"
+        },
+        {
+            "ID": 602,
+            "Name": "Grêmio",
+            "ShortName": "GRÊ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/602.png"
+        },
+        {
+            "ID": 603,
+            "Name": "Santa Cruz",
+            "ShortName": "SCZ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/603.png"
+        },
+        {
+            "ID": 922,
+            "Name": "Náutico",
+            "ShortName": "NÁU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/922.png"
+        },
+        {
+            "ID": 923,
+            "Name": "Sport Recife",
+            "ShortName": "SPO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/923.png"
+        },
+        {
+            "ID": 924,
+            "Name": "América de Natal",
+            "ShortName": "AMÉ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/924.png"
+        },
+        {
+            "ID": 1232,
+            "Name": "Portuguesa",
+            "ShortName": "POR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1232.png"
+        },
+        {
+            "ID": 1233,
+            "Name": "Ipatinga FC",
+            "ShortName": "IFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1233.png"
+        },
+        {
+            "ID": 1237,
+            "Name": "EC Vitória",
+            "ShortName": "VIT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1237.png"
+        },
+        {
+            "ID": 1414,
+            "Name": "Avaí FC",
+            "ShortName": "AFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1414.png"
+        },
+        {
+            "ID": 1418,
+            "Name": "Grêmio Barueri",
+            "ShortName": "BAR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1418.png"
+        },
+        {
+            "ID": 1419,
+            "Name": "EC Santo André",
+            "ShortName": "SAN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1419.png"
+        },
+        {
+            "ID": 1447,
+            "Name": "RB Bragantino",
+            "ShortName": "RBB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1447.png"
+        },
+        {
+            "ID": 1457,
+            "Name": "Vila Nova",
+            "ShortName": "VN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1457.png"
+        },
+        {
+            "ID": 1458,
+            "Name": "Ceará SC",
+            "ShortName": "CEA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1458.png"
+        },
+        {
+            "ID": 1473,
+            "Name": "EC Bahia",
+            "ShortName": "ECB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1473.png"
+        },
+        {
+            "ID": 1515,
+            "Name": "Guarani FC",
+            "ShortName": "GUA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1515.png"
+        },
+        {
+            "ID": 1581,
+            "Name": "Atlético Goianiense",
+            "ShortName": "ACG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1581.png"
+        },
+        {
+            "ID": 1590,
+            "Name": "Icasa",
+            "ShortName": "ICA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1590.png"
+        },
+        {
+            "ID": 1614,
+            "Name": "América Mineiro",
+            "ShortName": "AMG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1614.png"
+        },
+        {
+            "ID": 1630,
+            "Name": "Guaratinguetá",
+            "ShortName": "GUA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1630.png"
+        },
+        {
+            "ID": 1645,
+            "Name": "ASA",
+            "ShortName": "ASA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1645_1289008008.jpg"
+        },
+        {
+            "ID": 1650,
+            "Name": "Duque de Caxias",
+            "ShortName": "DUQ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1650.png"
+        },
+        {
+            "ID": 1772,
+            "Name": "Criciúma EC",
+            "ShortName": "CEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1772.png"
+        },
+        {
+            "ID": 1785,
+            "Name": "ABC",
+            "ShortName": "ABC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1785.png"
+        },
+        {
+            "ID": 1896,
+            "Name": "Boa Esporte",
+            "ShortName": "BOA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/1896.png"
+        },
+        {
+            "ID": 2013,
+            "Name": "Salgueiro AC",
+            "ShortName": "SAL",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2013.png"
+        },
+        {
+            "ID": 2014,
+            "Name": "SER Caxias do Sul",
+            "ShortName": "CAX",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2014_1338278406.jpg"
+        },
+        {
+            "ID": 2015,
+            "Name": "Clube de Regatas Brasil",
+            "ShortName": "CRB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2015.png"
+        },
+        {
+            "ID": 2063,
+            "Name": "Joinville EC",
+            "ShortName": "JEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2063.png"
+        },
+        {
+            "ID": 2174,
+            "Name": "Oeste FC",
+            "ShortName": "OFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2174.png"
+        },
+        {
+            "ID": 2216,
+            "Name": "Águia de Marabá",
+            "ShortName": "AMR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2216_1358948434.jpg"
+        },
+        {
+            "ID": 2378,
+            "Name": "Madureira EC",
+            "ShortName": "MEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2378.png"
+        },
+        {
+            "ID": 2379,
+            "Name": "Chapecoense AF",
+            "ShortName": "ACF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2379.png"
+        },
+        {
+            "ID": 2392,
+            "Name": "Mogi Mirim EC",
+            "ShortName": "MMI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2392.png"
+        },
+        {
+            "ID": 2394,
+            "Name": "Macaé Esporte FC",
+            "ShortName": "MAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2394.png"
+        },
+        {
+            "ID": 2395,
+            "Name": "Sampaio Corrêa",
+            "ShortName": "SCO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2395.png"
+        },
+        {
+            "ID": 2396,
+            "Name": "Campinense Clube",
+            "ShortName": "CPC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2396.png"
+        },
+        {
+            "ID": 2403,
+            "Name": "ACEC Baraúnas",
+            "ShortName": "BAR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2403.png"
+        },
+        {
+            "ID": 2416,
+            "Name": "Cuiabá EC",
+            "ShortName": "CEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2416.png"
+        },
+        {
+            "ID": 2424,
+            "Name": "Nacional AM",
+            "ShortName": "NAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2424.jpg"
+        },
+        {
+            "ID": 2444,
+            "Name": "Treze FC",
+            "ShortName": "TFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2444.png"
+        },
+        {
+            "ID": 2446,
+            "Name": "CRA Catalano",
+            "ShortName": "CRA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2446.png"
+        },
+        {
+            "ID": 2455,
+            "Name": "Ituano FC",
+            "ShortName": "ITU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2455.png"
+        },
+        {
+            "ID": 2475,
+            "Name": "Volta Redonda FC",
+            "ShortName": "VRE",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2475.png"
+        },
+        {
+            "ID": 2476,
+            "Name": "Clube do Remo",
+            "ShortName": "CRB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2476.png"
+        },
+        {
+            "ID": 2478,
+            "Name": "Brasil de Pelotas",
+            "ShortName": "GEB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2478.png"
+        },
+        {
+            "ID": 2480,
+            "Name": "Paulista FC",
+            "ShortName": "PFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2480.png"
+        },
+        {
+            "ID": 2490,
+            "Name": "Goianésia EC",
+            "ShortName": "GEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2490.jpg"
+        },
+        {
+            "ID": 2494,
+            "Name": "Luverdense EC",
+            "ShortName": "LEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2494.png"
+        },
+        {
+            "ID": 2537,
+            "Name": "Mixto EC",
+            "ShortName": "MEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2537.png"
+        },
+        {
+            "ID": 2614,
+            "Name": "Nova Iguaçu",
+            "ShortName": "NIG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2614.png"
+        },
+        {
+            "ID": 2617,
+            "Name": "Resende FC",
+            "ShortName": "RFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2617.png"
+        },
+        {
+            "ID": 2620,
+            "Name": "AA Aparecidense",
+            "ShortName": "AAA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2620.png"
+        },
+        {
+            "ID": 2795,
+            "Name": "Araxá EC",
+            "ShortName": "ARA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2795.png"
+        },
+        {
+            "ID": 2796,
+            "Name": "Lajeadense",
+            "ShortName": "LAJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2796.jpg"
+        },
+        {
+            "ID": 2797,
+            "Name": "Central SC",
+            "ShortName": "CSC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2797.png"
+        },
+        {
+            "ID": 2799,
+            "Name": "J.Malucelli",
+            "ShortName": "JMF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2799.png"
+        },
+        {
+            "ID": 2801,
+            "Name": "Tupi FC",
+            "ShortName": "TUP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2801.png"
+        },
+        {
+            "ID": 2802,
+            "Name": "Botafogo SP",
+            "ShortName": "BSP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2802.png"
+        },
+        {
+            "ID": 2810,
+            "Name": "Marília AC",
+            "ShortName": "MAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2810.png"
+        },
+        {
+            "ID": 2811,
+            "Name": "EC Aracruz",
+            "ShortName": "ECA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2811.jpg"
+        },
+        {
+            "ID": 2812,
+            "Name": "RB Brasil",
+            "ShortName": "RBB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2812.jpg"
+        },
+        {
+            "ID": 2813,
+            "Name": "Mirassol FC",
+            "ShortName": "MFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2813.png"
+        },
+        {
+            "ID": 2814,
+            "Name": "CS Alagoano",
+            "ShortName": "CSA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2814.png"
+        },
+        {
+            "ID": 2815,
+            "Name": "Bangu AC",
+            "ShortName": "BAN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2815.png"
+        },
+        {
+            "ID": 2816,
+            "Name": "CA Linense",
+            "ShortName": "CAL",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2816.png"
+        },
+        {
+            "ID": 2820,
+            "Name": "Desportivo Brasil",
+            "ShortName": "DB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2820.png"
+        },
+        {
+            "ID": 2829,
+            "Name": "CA Penapolense",
+            "ShortName": "CAP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2829.jpg"
+        },
+        {
+            "ID": 2831,
+            "Name": "Brasília FC",
+            "ShortName": "BRA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2831.png"
+        },
+        {
+            "ID": 2848,
+            "Name": "Operário Ferroviário EC",
+            "ShortName": "OPR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2848.png"
+        },
+        {
+            "ID": 2850,
+            "Name": "Ypiranga FC",
+            "ShortName": "YPI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2850.png"
+        },
+        {
+            "ID": 2874,
+            "Name": "Grêmio Osasco Audax",
+            "ShortName": "GOA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2874.png"
+        },
+        {
+            "ID": 2877,
+            "Name": "Águia Negra",
+            "ShortName": "AN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2877.jpg"
+        },
+        {
+            "ID": 2881,
+            "Name": "Londrina EC",
+            "ShortName": "LEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2881.png"
+        },
+        {
+            "ID": 2936,
+            "Name": "CN Marcílio Dias",
+            "ShortName": "CNM",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2936.png"
+        },
+        {
+            "ID": 2965,
+            "Name": "Comercial-SP",
+            "ShortName": "CFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/2965.jpg"
+        },
+        {
+            "ID": 3005,
+            "Name": "Tombense FC",
+            "ShortName": "TOM",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3005.png"
+        },
+        {
+            "ID": 3017,
+            "Name": "Botafogo PB",
+            "ShortName": "BPB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3017.png"
+        },
+        {
+            "ID": 3018,
+            "Name": "Boavista RJ",
+            "ShortName": "BRJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3018.png"
+        },
+        {
+            "ID": 3022,
+            "Name": "Porto CE",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3022.png"
+        },
+        {
+            "ID": 3023,
+            "Name": "AA Santa Rita",
+            "ShortName": "SR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3023.jpg"
+        },
+        {
+            "ID": 3032,
+            "Name": "Ferroviário AC",
+            "ShortName": "FAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3032.png"
+        },
+        {
+            "ID": 3035,
+            "Name": "XV de Piracicaba",
+            "ShortName": "XVP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3035.png"
+        },
+        {
+            "ID": 3036,
+            "Name": "CA Metropolitano",
+            "ShortName": "MET",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3036.jpg"
+        },
+        {
+            "ID": 3037,
+            "Name": "Serra Macaense ",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3037.jpg"
+        },
+        {
+            "ID": 3038,
+            "Name": "Rio Branco FC",
+            "ShortName": "RB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3038.png"
+        },
+        {
+            "ID": 3039,
+            "Name": "Rio Claro FC",
+            "ShortName": "RC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3039.jpg"
+        },
+        {
+            "ID": 3040,
+            "Name": "Vitoria da Conquista",
+            "ShortName": "VC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3040.jpg"
+        },
+        {
+            "ID": 3041,
+            "Name": "Guarany de Sobral",
+            "ShortName": "GYS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3041.png"
+        },
+        {
+            "ID": 3042,
+            "Name": "Atlético Monte Azul",
+            "ShortName": "AMA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3042.jpg"
+        },
+        {
+            "ID": 3043,
+            "Name": "Roma EA",
+            "ShortName": "REA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3043.jpg"
+        },
+        {
+            "ID": 3057,
+            "Name": "AD Cabofriense",
+            "ShortName": "ADC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3057.png"
+        },
+        {
+            "ID": 3059,
+            "Name": "EC Pelotas",
+            "ShortName": "ECP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3059.png"
+        },
+        {
+            "ID": 3060,
+            "Name": "Murici FC",
+            "ShortName": "MFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3060.png"
+        },
+        {
+            "ID": 3061,
+            "Name": "AE Tiradentes",
+            "ShortName": "AET",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3061.jpg"
+        },
+        {
+            "ID": 3062,
+            "Name": "CA Juventus",
+            "ShortName": "JUV",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3062.png"
+        },
+        {
+            "ID": 3063,
+            "Name": "Guarani EC",
+            "ShortName": "GUA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3063.jpg"
+        },
+        {
+            "ID": 3064,
+            "Name": "Cianorte FC",
+            "ShortName": "CFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3064.png"
+        },
+        {
+            "ID": 3065,
+            "Name": "Audax Rio",
+            "ShortName": "ARJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3065.png"
+        },
+        {
+            "ID": 3066,
+            "Name": "EC Taubaté",
+            "ShortName": "ECT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3066.png"
+        },
+        {
+            "ID": 3067,
+            "Name": "SD Juazeirense",
+            "ShortName": "SDJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3067.png"
+        },
+        {
+            "ID": 3074,
+            "Name": "Grêmio Anápolis",
+            "ShortName": "GEA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3074.jpg"
+        },
+        {
+            "ID": 3075,
+            "Name": "Anápolis FC",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3075.png"
+        },
+        {
+            "ID": 3080,
+            "Name": "São Carlos FC",
+            "ShortName": "SC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3080.png"
+        },
+        {
+            "ID": 3085,
+            "Name": "AE Velo Clube",
+            "ShortName": "VC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3085.png"
+        },
+        {
+            "ID": 3086,
+            "Name": "Belo Jardim FC",
+            "ShortName": "BJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3086.jpg"
+        },
+        {
+            "ID": 3102,
+            "Name": "Alecrim FC",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3102.png"
+        },
+        {
+            "ID": 3122,
+            "Name": "São Bernardo FC",
+            "ShortName": "SBC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3122.jpg"
+        },
+        {
+            "ID": 3173,
+            "Name": "União Barbarense",
+            "ShortName": "UAB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3173.jpg"
+        },
+        {
+            "ID": 3174,
+            "Name": "Grêmio Catanduvense",
+            "ShortName": "GCF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3174.jpg"
+        },
+        {
+            "ID": 3184,
+            "Name": "Gurupi EC",
+            "ShortName": "GUR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3184.png"
+        },
+        {
+            "ID": 3200,
+            "Name": "Atlético Sorocaba",
+            "ShortName": "CAS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3200.jpg"
+        },
+        {
+            "ID": 3204,
+            "Name": "América RJ",
+            "ShortName": "ARJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3204.png"
+        },
+        {
+            "ID": 3205,
+            "Name": "AA Coruripe",
+            "ShortName": "AAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3205.png"
+        },
+        {
+            "ID": 3241,
+            "Name": "Sobradinho EC",
+            "ShortName": "SOB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3241.png"
+        },
+        {
+            "ID": 3244,
+            "Name": "Friburguense AC",
+            "ShortName": "FAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3244.png"
+        },
+        {
+            "ID": 3245,
+            "Name": "AA Internacional",
+            "ShortName": "AAI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3245.jpg"
+        },
+        {
+            "ID": 3246,
+            "Name": "EC Novo Hamburgo",
+            "ShortName": "NH",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3246.png"
+        },
+        {
+            "ID": 3247,
+            "Name": "Botafogo BA",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3247.jpg"
+        },
+        {
+            "ID": 3248,
+            "Name": "Olaria AC",
+            "ShortName": "OAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3248.png"
+        },
+        {
+            "ID": 3249,
+            "Name": "AA Anapolina",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3249.jpg"
+        },
+        {
+            "ID": 3251,
+            "Name": "EC São Luiz",
+            "ShortName": "SLU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3251.jpg"
+        },
+        {
+            "ID": 3252,
+            "Name": "Santa Cruz RS",
+            "ShortName": "SCR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3252.png"
+        },
+        {
+            "ID": 3257,
+            "Name": "Galícia EC",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3257.jpg"
+        },
+        {
+            "ID": 3258,
+            "Name": "América SP",
+            "ShortName": "ASP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3258.jpg"
+        },
+        {
+            "ID": 3269,
+            "Name": "CA Votuporanguense",
+            "ShortName": "CAV",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3269.jpg"
+        },
+        {
+            "ID": 3349,
+            "Name": "Piauí EC",
+            "ShortName": "PEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3349.jpg"
+        },
+        {
+            "ID": 3370,
+            "Name": "São Mateus",
+            "ShortName": "SMA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3370.png"
+        },
+        {
+            "ID": 3414,
+            "Name": "Camboriú",
+            "ShortName": "CAM",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3414.png"
+        },
+        {
+            "ID": 3415,
+            "Name": "Bonsucesso FC",
+            "ShortName": "BFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3415.png"
+        },
+        {
+            "ID": 3424,
+            "Name": "AA Flamengo",
+            "ShortName": "AAF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3424.jpg"
+        },
+        {
+            "ID": 3426,
+            "Name": "Ferroviária",
+            "ShortName": "AFE",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3426.png"
+        },
+        {
+            "ID": 3427,
+            "Name": "CA Joseense",
+            "ShortName": "JOS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3427.jpg"
+        },
+        {
+            "ID": 3431,
+            "Name": "EC Cruzeiro",
+            "ShortName": "ECC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3431.jpg"
+        },
+        {
+            "ID": 3435,
+            "Name": "Arapongas EC",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3435.png"
+        },
+        {
+            "ID": 3436,
+            "Name": "São José EC",
+            "ShortName": "SJO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3436.png"
+        },
+        {
+            "ID": 3437,
+            "Name": "Inter de Bebedouro",
+            "ShortName": "AAI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3437.png"
+        },
+        {
+            "ID": 3438,
+            "Name": "Villa Nova AC",
+            "ShortName": "VN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3438.png"
+        },
+        {
+            "ID": 3439,
+            "Name": "AA Caldense",
+            "ShortName": "AAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3439.png"
+        },
+        {
+            "ID": 3440,
+            "Name": "Atlético da Barra",
+            "ShortName": "ABT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3440.png"
+        },
+        {
+            "ID": 3441,
+            "Name": "Rio Preto EC",
+            "ShortName": "RP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3441.png"
+        },
+        {
+            "ID": 3445,
+            "Name": "Independente FC",
+            "ShortName": "IFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3445.png"
+        },
+        {
+            "ID": 3447,
+            "Name": "SE Vitória",
+            "ShortName": "SEV",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3447.png"
+        },
+        {
+            "ID": 3469,
+            "Name": "Toledo Esporte Clube",
+            "ShortName": "TCW",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3469.png"
+        },
+        {
+            "ID": 3479,
+            "Name": "Feirense FC",
+            "ShortName": "FEI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3479.jpg"
+        },
+        {
+            "ID": 3480,
+            "Name": "Estrela do Norte",
+            "ShortName": "EN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3480.png"
+        },
+        {
+            "ID": 3481,
+            "Name": "Grêmio Novorizontino",
+            "ShortName": "GEN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3481.png"
+        },
+        {
+            "ID": 3485,
+            "Name": "SE Gama",
+            "ShortName": "SEG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3485.png"
+        },
+        {
+            "ID": 3487,
+            "Name": "AO Itabaiana",
+            "ShortName": "AOI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3487.jpg"
+        },
+        {
+            "ID": 3488,
+            "Name": "SC São Paulo",
+            "ShortName": "SP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3488.png"
+        },
+        {
+            "ID": 3489,
+            "Name": "Caldas Novas AC",
+            "ShortName": "CN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3489.jpg"
+        },
+        {
+            "ID": 3490,
+            "Name": "Morrinhos FC",
+            "ShortName": "MFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3490.jpg"
+        },
+        {
+            "ID": 3491,
+            "Name": "Nacional EC",
+            "ShortName": "NEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3491.png"
+        },
+        {
+            "ID": 3492,
+            "Name": "Ceilândia EC",
+            "ShortName": "CEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3492.png"
+        },
+        {
+            "ID": 3493,
+            "Name": "Goiânia EC",
+            "ShortName": "GEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3493.png"
+        },
+        {
+            "ID": 3494,
+            "Name": "EC Tigres",
+            "ShortName": "ECT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3494.png"
+        },
+        {
+            "ID": 3495,
+            "Name": "SE Patrocinense",
+            "ShortName": "SEP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3495.png"
+        },
+        {
+            "ID": 3496,
+            "Name": "Uberaba SC",
+            "ShortName": "USC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3496.jpg"
+        },
+        {
+            "ID": 3497,
+            "Name": "Rio Branco SC",
+            "ShortName": "RB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3497.jpg"
+        },
+        {
+            "ID": 3498,
+            "Name": "Iguatu FC",
+            "ShortName": "IFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3498.jpg"
+        },
+        {
+            "ID": 3499,
+            "Name": "Princesa do Solimões",
+            "ShortName": "PRI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3499.jpg"
+        },
+        {
+            "ID": 3500,
+            "Name": "CE Aimoré",
+            "ShortName": "CEA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3500.jpg"
+        },
+        {
+            "ID": 3501,
+            "Name": "SE Itapirense",
+            "ShortName": "SEI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3501.jpg"
+        },
+        {
+            "ID": 3502,
+            "Name": "EC Passo Fundo",
+            "ShortName": "PF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3502.png"
+        },
+        {
+            "ID": 3503,
+            "Name": "EC Água Santa",
+            "ShortName": "AS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3503.png"
+        },
+        {
+            "ID": 3504,
+            "Name": "EC Rio Verde",
+            "ShortName": "RVG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3504.jpg"
+        },
+        {
+            "ID": 3505,
+            "Name": "Cametá SC",
+            "ShortName": "CSC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3505.png"
+        },
+        {
+            "ID": 3506,
+            "Name": "AD Confiança",
+            "ShortName": "ADC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3506.png"
+        },
+        {
+            "ID": 3507,
+            "Name": "Galvez EC",
+            "ShortName": "GEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3507.png"
+        },
+        {
+            "ID": 3508,
+            "Name": "Cerâmica AC",
+            "ShortName": "CAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3508.png"
+        },
+        {
+            "ID": 3509,
+            "Name": "Paragominas FC",
+            "ShortName": "PFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3509.jpg"
+        },
+        {
+            "ID": 3510,
+            "Name": "Esportivo BG",
+            "ShortName": "EBG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3510.png"
+        },
+        {
+            "ID": 3511,
+            "Name": "Alagoinhas AC",
+            "ShortName": "AAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3511.png"
+        },
+        {
+            "ID": 3512,
+            "Name": "Batatais FC",
+            "ShortName": "BFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3512.png"
+        },
+        {
+            "ID": 3513,
+            "Name": "Rio Branco EC",
+            "ShortName": "RB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3513.jpg"
+        },
+        {
+            "ID": 3519,
+            "Name": "SERC Guarani",
+            "ShortName": "GSC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3519.png"
+        },
+        {
+            "ID": 3521,
+            "Name": "Clube Sociedade Esportiva",
+            "ShortName": "CSE",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3521.jpg"
+        },
+        {
+            "ID": 3522,
+            "Name": "AA Francana",
+            "ShortName": "AAF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3522.jpg"
+        },
+        {
+            "ID": 3523,
+            "Name": "Maringá FC",
+            "ShortName": "MFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3523.png"
+        },
+        {
+            "ID": 3524,
+            "Name": "América TO",
+            "ShortName": "ATO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3524.jpg"
+        },
+        {
+            "ID": 3525,
+            "Name": "Atlético de Cajazeiras",
+            "ShortName": "APB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3525.png"
+        },
+        {
+            "ID": 3526,
+            "Name": "Grêmio Recreativo Serrano",
+            "ShortName": "GRS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3526.jpg"
+        },
+        {
+            "ID": 3527,
+            "Name": "Canoinhas AC",
+            "ShortName": "CAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3527.jpg"
+        },
+        {
+            "ID": 3528,
+            "Name": "Boca Júnior",
+            "ShortName": "SBJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3528.png"
+        },
+        {
+            "ID": 3529,
+            "Name": "Horizonte FC",
+            "ShortName": "HFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3529.png"
+        },
+        {
+            "ID": 3531,
+            "Name": "AC Paranavaí",
+            "ShortName": "ACP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3531.jpg"
+        },
+        {
+            "ID": 3532,
+            "Name": "América PE",
+            "ShortName": "APE",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3532.jpg"
+        },
+        {
+            "ID": 3533,
+            "Name": "Capivariano FC",
+            "ShortName": "CFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3533.png"
+        },
+        {
+            "ID": 3535,
+            "Name": "Auto Esporte Clube",
+            "ShortName": "AEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3535.jpg"
+        },
+        {
+            "ID": 3547,
+            "Name": "EC São Bento",
+            "ShortName": "SB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3547.png"
+        },
+        {
+            "ID": 3559,
+            "Name": "Atlético Hermann Aichinger",
+            "ShortName": "AHA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3559.jpg"
+        },
+        {
+            "ID": 3581,
+            "Name": "Serrano SC",
+            "ShortName": "SSC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3581.png"
+        },
+        {
+            "ID": 3615,
+            "Name": "Tupã FC",
+            "ShortName": "TFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3615.jpg"
+        },
+        {
+            "ID": 3642,
+            "Name": "EC Internacional",
+            "ShortName": "ECI",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3642.png"
+        },
+        {
+            "ID": 3670,
+            "Name": "Cotia FC",
+            "ShortName": "CFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3670.jpg"
+        },
+        {
+            "ID": 3672,
+            "Name": "EC Avenida",
+            "ShortName": "ECA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3672.jpg"
+        },
+        {
+            "ID": 3675,
+            "Name": "Legião FC",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3675.jpg"
+        },
+        {
+            "ID": 3678,
+            "Name": "Grêmio Esportivo Juventus",
+            "ShortName": "GEJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3678.png"
+        },
+        {
+            "ID": 3718,
+            "Name": "Penarol AC",
+            "ShortName": "PAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3718.jpg"
+        },
+        {
+            "ID": 3724,
+            "Name": "XV de Jaú",
+            "ShortName": "XVJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3724.jpg"
+        },
+        {
+            "ID": 3728,
+            "Name": "Quixadá FC",
+            "ShortName": "QFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3728.jpg"
+        },
+        {
+            "ID": 3756,
+            "Name": "EC Primavera",
+            "ShortName": "ECP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3756.png"
+        },
+        {
+            "ID": 3767,
+            "Name": "EC Noroeste",
+            "ShortName": "ECN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3767.png"
+        },
+        {
+            "ID": 3769,
+            "Name": "Globo FC",
+            "ShortName": "GFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3769.png"
+        },
+        {
+            "ID": 3771,
+            "Name": "São Raimundo EC",
+            "ShortName": "REC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3771.png"
+        },
+        {
+            "ID": 3772,
+            "Name": "Operário FC",
+            "ShortName": "OFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3772.png"
+        },
+        {
+            "ID": 3776,
+            "Name": "URT",
+            "ShortName": "URT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3776.png"
+        },
+        {
+            "ID": 3777,
+            "Name": "SC Gênus",
+            "ShortName": "SCG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3777.jpg"
+        },
+        {
+            "ID": 3778,
+            "Name": "Náutico FC",
+            "ShortName": "NFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3778.jpg"
+        },
+        {
+            "ID": 3793,
+            "Name": "Interporto FC",
+            "ShortName": "IFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3793.jpg"
+        },
+        {
+            "ID": 3794,
+            "Name": "Serra Talhada",
+            "ShortName": "ST",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3794.png"
+        },
+        {
+            "ID": 3795,
+            "Name": "São Raimundo RR",
+            "ShortName": "SR",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3795.jpg"
+        },
+        {
+            "ID": 3830,
+            "Name": "EC Comercial",
+            "ShortName": "ECC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3830.png"
+        },
+        {
+            "ID": 3836,
+            "Name": "Ipanema AC",
+            "ShortName": "IAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3836.jpg"
+        },
+        {
+            "ID": 3842,
+            "Name": "Itumbiara EC",
+            "ShortName": "IEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3842.png"
+        },
+        {
+            "ID": 3844,
+            "Name": "Independente AC",
+            "ShortName": "IAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3844.jpg"
+        },
+        {
+            "ID": 3847,
+            "Name": "Cincão EC",
+            "ShortName": "CEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3847.png"
+        },
+        {
+            "ID": 3848,
+            "Name": "Castanhal EC",
+            "ShortName": "CEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3848.png"
+        },
+        {
+            "ID": 3849,
+            "Name": "SC Penedense",
+            "ShortName": "SCP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3849.png"
+        },
+        {
+            "ID": 3859,
+            "Name": "São Gonçalo EC",
+            "ShortName": "SG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3859.png"
+        },
+        {
+            "ID": 3954,
+            "Name": "SC Atibaia",
+            "ShortName": "SCA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3954.png"
+        },
+        {
+            "ID": 3955,
+            "Name": "Nacional AC",
+            "ShortName": "NAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3955.png"
+        },
+        {
+            "ID": 3957,
+            "Name": "Jabaquara Atlético Clube",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3957.jpg"
+        },
+        {
+            "ID": 3963,
+            "Name": "Minas Boca Futebol",
+            "ShortName": "MBF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3963.png"
+        },
+        {
+            "ID": 3967,
+            "Name": "Concórdia FC",
+            "ShortName": "CFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3967.png"
+        },
+        {
+            "ID": 3985,
+            "Name": "Associação Nova Prata",
+            "ShortName": "ANP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/3985.jpg"
+        },
+        {
+            "ID": 4175,
+            "Name": "Guarani de Juazeiro",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4175.jpg"
+        },
+        {
+            "ID": 4176,
+            "Name": "EC Mamoré",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4176.jpg"
+        },
+        {
+            "ID": 4257,
+            "Name": "Itapipoca EC",
+            "ShortName": "ITA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4257.png"
+        },
+        {
+            "ID": 4269,
+            "Name": "Trindade AC",
+            "ShortName": "TAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4269.jpg"
+        },
+        {
+            "ID": 4288,
+            "Name": "AA Portuguesa",
+            "ShortName": "AAP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4288.png"
+        },
+        {
+            "ID": 4302,
+            "Name": "GE Glória",
+            "ShortName": "GEG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4302.png"
+        },
+        {
+            "ID": 4311,
+            "Name": "Guarani-VA",
+            "ShortName": "ECG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4311.png"
+        },
+        {
+            "ID": 4314,
+            "Name": "Ríver AC",
+            "ShortName": "RAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4314.png"
+        },
+        {
+            "ID": 4315,
+            "Name": "Barretos EC",
+            "ShortName": "BEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4315.png"
+        },
+        {
+            "ID": 4322,
+            "Name": "Atlético Cearense",
+            "ShortName": "ATC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4322.png"
+        },
+        {
+            "ID": 4331,
+            "Name": "CA Tricordiano",
+            "ShortName": "CAT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4331.jpg"
+        },
+        {
+            "ID": 4341,
+            "Name": "EC Jacuipense",
+            "ShortName": "ECJ",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4341.png"
+        },
+        {
+            "ID": 4364,
+            "Name": "FC Cascavel",
+            "ShortName": "FCC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4364.png"
+        },
+        {
+            "ID": 4370,
+            "Name": "Goytacaz FC",
+            "ShortName": "GFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4370.png"
+        },
+        {
+            "ID": 4375,
+            "Name": "Democrata FC",
+            "ShortName": "",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4375.jpg"
+        },
+        {
+            "ID": 4388,
+            "Name": "Veranópolis ECRC",
+            "ShortName": "VEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4388.jpg"
+        },
+        {
+            "ID": 4397,
+            "Name": "Sete de Setembro",
+            "ShortName": "SdS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4397.png"
+        },
+        {
+            "ID": 4433,
+            "Name": "Paraná STC",
+            "ShortName": "PST",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4433.png"
+        },
+        {
+            "ID": 4447,
+            "Name": "Santa Quitéria",
+            "ShortName": "SQU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4447.png"
+        },
+        {
+            "ID": 4479,
+            "Name": "Ceres FC",
+            "ShortName": "CFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4479.png"
+        },
+        {
+            "ID": 4480,
+            "Name": "Prudentópolis FC",
+            "ShortName": "PFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4480.png"
+        },
+        {
+            "ID": 4482,
+            "Name": "Portuguesa Santista",
+            "ShortName": "AAP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4482.png"
+        },
+        {
+            "ID": 4483,
+            "Name": "Brusque FC",
+            "ShortName": "BFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4483.png"
+        },
+        {
+            "ID": 4485,
+            "Name": "CAP Uberlândia",
+            "ShortName": "CAP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4485.png"
+        },
+        {
+            "ID": 4509,
+            "Name": "Barra FC",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4509.png"
+        },
+        {
+            "ID": 4548,
+            "Name": "Operário-MG",
+            "ShortName": "OMG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4548.png"
+        },
+        {
+            "ID": 4751,
+            "Name": "SE Matonense",
+            "ShortName": "SEM",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4751.jpg"
+        },
+        {
+            "ID": 4756,
+            "Name": "Atlético Tubarão",
+            "ShortName": "CAT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4756.jpg"
+        },
+        {
+            "ID": 4758,
+            "Name": "AA Altos",
+            "ShortName": "AAA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4758.jpg"
+        },
+        {
+            "ID": 4762,
+            "Name": "Sertãozinho FC",
+            "ShortName": "SFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4762.png"
+        },
+        {
+            "ID": 4763,
+            "Name": "Sousa EC",
+            "ShortName": "SEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4763.png"
+        },
+        {
+            "ID": 4764,
+            "Name": "CS Sergipe",
+            "ShortName": "CSS",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4764.png"
+        },
+        {
+            "ID": 4768,
+            "Name": "Nacional Fast Clube",
+            "ShortName": "NFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4768.png"
+        },
+        {
+            "ID": 4778,
+            "Name": "Moto Club",
+            "ShortName": "",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4778.png"
+        },
+        {
+            "ID": 4791,
+            "Name": "EC Democrata",
+            "ShortName": "ECD",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4791.jpg"
+        },
+        {
+            "ID": 4792,
+            "Name": "Rio Branco AC",
+            "ShortName": "RBA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4792.jpg"
+        },
+        {
+            "ID": 4793,
+            "Name": "Iporá EC",
+            "ShortName": "IPO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4793.png"
+        },
+        {
+            "ID": 4794,
+            "Name": "Fluminense de Feira",
+            "ShortName": "FdF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4794.png"
+        },
+        {
+            "ID": 4795,
+            "Name": "Atlântico EC",
+            "ShortName": "ATL",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4795.png"
+        },
+        {
+            "ID": 4798,
+            "Name": "Coimbra EC",
+            "ShortName": "CEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4798.png"
+        },
+        {
+            "ID": 4845,
+            "Name": "Operário-MT",
+            "ShortName": "",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4845.png"
+        },
+        {
+            "ID": 4858,
+            "Name": "Potiguar Mossoró",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4858.png"
+        },
+        {
+            "ID": 4859,
+            "Name": "Cascavel CR",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4859.png"
+        },
+        {
+            "ID": 4888,
+            "Name": "Corumbaense FC",
+            "ShortName": "CFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/4888.png"
+        },
+        {
+            "ID": 5055,
+            "Name": "CA Cambé",
+            "ShortName": "CAC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5055.png"
+        },
+        {
+            "ID": 5056,
+            "Name": "Americano FC",
+            "ShortName": "AFC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5056.png"
+        },
+        {
+            "ID": 5067,
+            "Name": "Clube Andraus Brasil",
+            "ShortName": "CAB",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5067.png"
+        },
+        {
+            "ID": 5077,
+            "Name": "Atlético Acreano",
+            "ShortName": "ATA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5077.png"
+        },
+        {
+            "ID": 5080,
+            "Name": "Frei Paulistano",
+            "ShortName": "FPA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5080.png"
+        },
+        {
+            "ID": 5125,
+            "Name": "AC Coríntians",
+            "ShortName": "CRN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5125.png"
+        },
+        {
+            "ID": 5226,
+            "Name": "Espírito Santo",
+            "ShortName": "ES",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5226.png"
+        },
+        {
+            "ID": 5311,
+            "Name": "Imperatriz de Desportos",
+            "ShortName": "IMP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5311.png"
+        },
+        {
+            "ID": 5513,
+            "Name": "Pouso Alegre",
+            "ShortName": "POU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5513.png"
+        },
+        {
+            "ID": 5536,
+            "Name": "Manaus FC",
+            "ShortName": null,
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5536.png"
+        },
+        {
+            "ID": 5581,
+            "Name": "Floresta EC",
+            "ShortName": "FLO",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5581.png"
+        },
+        {
+            "ID": 5595,
+            "Name": "EC Ypiranga",
+            "ShortName": "ECY",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5595.png"
+        },
+        {
+            "ID": 5651,
+            "Name": "Nova Mutum EC",
+            "ShortName": "MUT",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5651.png"
+        },
+        {
+            "ID": 5668,
+            "Name": "Sinop FC",
+            "ShortName": "SIN",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5668.png"
+        },
+        {
+            "ID": 5677,
+            "Name": "EC Próspera",
+            "ShortName": "ECP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5677.png"
+        },
+        {
+            "ID": 5724,
+            "Name": "Real Brasília",
+            "ShortName": "REA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5724.png"
+        },
+        {
+            "ID": 5772,
+            "Name": "Hercílio Luz",
+            "ShortName": "HLF",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5772.png"
+        },
+        {
+            "ID": 5833,
+            "Name": "Retrô FC",
+            "ShortName": "RET",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5833.png"
+        },
+        {
+            "ID": 5835,
+            "Name": "Navegantes EC",
+            "ShortName": "NEC",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5835.png"
+        },
+        {
+            "ID": 5973,
+            "Name": "Azuriz",
+            "ShortName": "AZU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5973.png"
+        },
+        {
+            "ID": 5974,
+            "Name": "Azuriz",
+            "ShortName": "AZU",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/5974.png"
+        },
+        {
+            "ID": 6065,
+            "Name": "Amazonas FC",
+            "ShortName": "AMA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/6065.png"
+        }
+    ],
+    "InternationalData": [       
+        {
+            "ID": "BRA",
+            "Name": "Brazil",
+            "ShortName": "BRA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/international\/BRA.png"
+        }
+    ]
+}

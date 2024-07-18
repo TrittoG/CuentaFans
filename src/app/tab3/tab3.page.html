@@ -1,0 +1,46 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Cuenta Fans!
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title color="primary" size="large">Cuenta Fans! <ion-icon name="shirt-outline"></ion-icon></ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-searchbar slot="fixed" animated="true" placeholder="Buscar Club"  [(ngModel)]="filtro"></ion-searchbar>
+    <br>
+    <br>
+    
+    <ion-list *ngIf="datosVistos" id="arg">
+      <ion-list-header>
+        <ion-label >Argentina</ion-label>
+      </ion-list-header>
+      <ion-list-header>
+        <ion-label >Equipo</ion-label>
+        <ion-label >Cantidad <ion-icon name="eye-outline"></ion-icon></ion-label>
+        <ion-label >Escudo</ion-label>
+      </ion-list-header>
+      
+      <ion-item *ngFor="let equipo of datosVistos | filterr:filtro" >
+        <ion-label>{{equipo.Name}}</ion-label>
+        <ion-label>{{equipo.Cantidad}}</ion-label>
+        <p style="font-size: small;">{{equipo.ShortName}}</p>
+        <ion-img style="width: 10%;"
+        src="{{equipo.ImageURL}}"
+        alt="{{equipo.Name}}"
+        >
+        </ion-img>
+        
+      </ion-item>
+    
+    </ion-list>
+
+  </ion-content>
+  
+</ion-content>

@@ -1,0 +1,7 @@
+{
+  "name": "CuentaFans",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

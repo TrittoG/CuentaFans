@@ -1,0 +1,28 @@
+{
+    "InternationalData": [
+        {
+            "ID": "ARG",
+            "Name": "Argentina",
+            "ShortName": "ARG",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/international\/ARG.png"
+        },
+        {
+            "ID": "ESP",
+            "Name": "España",
+            "ShortName": "ESP",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/international\/ESP.png"
+        },
+        {
+            "ID": "BRA",
+            "Name": "Brazil",
+            "ShortName": "BRA",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/international\/BRA.png"
+        },
+        {
+            "ID": "PER",
+            "Name": "Peru",
+            "ShortName": "PER",
+            "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/international\/PER.png"
+        }
+    ]
+}
