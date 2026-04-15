@@ -28,10 +28,10 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install --legacy-peer-deps
 
       - name: Build
-        run: npm run build -- --configuration production --base-href /cuentafans/
+        run: npm run build -- --configuration production --base-href /CuentaFans/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
