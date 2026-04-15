@@ -53,11 +53,8 @@ export class Tab1Page {
 
   ionViewWillEnter()
   {
-    let res = localStorage.getItem("resultados") ?? "";
-    this.datosVistos = JSON.parse(res);
-    console.log(this.datosVistos);
-    
-
+    const res = localStorage.getItem("resultados");
+    this.datosVistos = res ? JSON.parse(res) : [];
   }
 
   ngOnInit()
@@ -107,6 +104,7 @@ export class Tab1Page {
     else
     {
       this.datosVistos[posicion].Cantidad++;
+      this.datosVistos[posicion].FechaUltimo = new Date();
     }
     
     console.log(this.datosVistos);
