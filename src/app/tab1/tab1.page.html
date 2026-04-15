@@ -38,7 +38,7 @@
       <ion-list-header>
         <ion-label >Brasil</ion-label>
       </ion-list-header>
-      <ion-item *ngFor="let equipo of datosBra | filter:filtro" (click)="presentAlert(equipo.ShortName)">
+      <ion-item *ngFor="let equipo of datosBra | filter:filtro" (click)="presentAlert(equipo)">
         <ion-label>{{equipo.Name}}</ion-label>
         <p style="font-size: small;">{{equipo.ShortName}}</p>
         <ion-img style="width: 10%;"
@@ -55,7 +55,7 @@
       <ion-list-header>
         <ion-label >España</ion-label>
       </ion-list-header>
-      <ion-item *ngFor="let equipo of datosEsp | filter:filtro" (click)="presentAlert(equipo.ShortName)">
+      <ion-item *ngFor="let equipo of datosEsp | filter:filtro" (click)="presentAlert(equipo)">
         <ion-label>{{equipo.Name}}</ion-label>
         <p style="font-size: small;">{{equipo.ShortName}}</p>
         <ion-img style="width: 10%;"

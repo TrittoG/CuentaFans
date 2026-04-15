@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import * as result from '../../Data/resultados.json'; //aqui es la ruta donde importas el archivo json
+import { AlertController } from '@ionic/angular';
 
 @Component({
   selector: 'app-tab3',
@@ -8,44 +8,34 @@ import * as result from '../../Data/resultados.json'; //aqui es la ruta donde im
 })
 export class Tab3Page {
 
-  public filtro:string="";
-  public datosVistos:any;
+  public filtro: string = "";
+  public datosVistos: any;
 
-  constructor() {}
+  constructor(private alertController: AlertController) {}
 
-  ngOnInit()
-  {
+  ngOnInit() {}
 
+  ionViewWillEnter() {
+    const res = localStorage.getItem("resultados");
+    this.datosVistos = res ? JSON.parse(res).sort((x: any, y: any) => y.Cantidad - x.Cantidad) : [];
   }
 
-  ionViewWillEnter()
-  {
-    let res = localStorage.getItem("resultados") ?? "";
-    console.log(res);
-    
-    if(res == "")
-    {
-      let esquema = [{
-        
-                "ID": 3587,
-                "Name": "Almagro",
-                "ShortName": "ALM",
-                "ImageURL": "https:\/\/cdn.soccerwiki.org\/images\/logos\/clubs\/266.png",
-                "Cantidad": 1,
-                "FechaUltimo":"3/4/2023"
-    
-            
-        
-      }];
-        localStorage.setItem("resultados", JSON.stringify(esquema));
-        this.datosVistos = esquema;
-    }
-    else
-    {      
-      this.datosVistos = JSON.parse(res);
-      this.datosVistos = this.datosVistos.sort((x:any, y:any) => y.Cantidad - x.Cantidad);
-    }
-    console.log(this.datosVistos);
+  async limpiarHistorial() {
+    const alert = await this.alertController.create({
+      header: 'Limpiar historial',
+      message: '¿Seguro que querés borrar todos los avistamientos?',
+      buttons: [
+        { text: 'Cancelar', role: 'cancel' },
+        {
+          text: 'Borrar todo',
+          role: 'destructive',
+          handler: () => {
+            localStorage.removeItem("resultados");
+            this.datosVistos = [];
+          }
+        }
+      ]
+    });
+    await alert.present();
   }
-
 }
